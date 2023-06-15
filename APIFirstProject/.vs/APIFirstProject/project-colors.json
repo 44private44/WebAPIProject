@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d9da296c-c49f-4c23-8621-fb588d17720c": {
+      "ProjectGuid": "d9da296c-c49f-4c23-8621-fb588d17720c",
+      "DisplayName": "APIFirstProject",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "bc6ea983-7442-4244-9eed-fdb5fc3fba1c": {
+      "ProjectGuid": "bc6ea983-7442-4244-9eed-fdb5fc3fba1c",
+      "DisplayName": "APIFirstProject.Entities",
+      "ColorIndex": 1
+    },
+    "2ea2eb50-b049-4f11-beda-9a27c5f96163": {
+      "ProjectGuid": "2ea2eb50-b049-4f11-beda-9a27c5f96163",
+      "DisplayName": "ASPFirstProject.Repositories",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

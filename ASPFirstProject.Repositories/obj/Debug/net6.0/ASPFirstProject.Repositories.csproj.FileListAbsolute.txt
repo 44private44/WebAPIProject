@@ -1,0 +1,17 @@
+D:\important\First API Project\ASPFirstProject.Repositories\bin\Debug\net6.0\ASPFirstProject.Repositories.deps.json
+D:\important\First API Project\ASPFirstProject.Repositories\bin\Debug\net6.0\ASPFirstProject.Repositories.runtimeconfig.json
+D:\important\First API Project\ASPFirstProject.Repositories\bin\Debug\net6.0\ASPFirstProject.Repositories.dll
+D:\important\First API Project\ASPFirstProject.Repositories\bin\Debug\net6.0\ref\ASPFirstProject.Repositories.dll
+D:\important\First API Project\ASPFirstProject.Repositories\bin\Debug\net6.0\ASPFirstProject.Repositories.pdb
+D:\important\First API Project\ASPFirstProject.Repositories\obj\Debug\net6.0\ASPFirstProject.Repositories.csproj.AssemblyReference.cache
+D:\important\First API Project\ASPFirstProject.Repositories\obj\Debug\net6.0\ASPFirstProject.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+D:\important\First API Project\ASPFirstProject.Repositories\obj\Debug\net6.0\ASPFirstProject.Repositories.AssemblyInfoInputs.cache
+D:\important\First API Project\ASPFirstProject.Repositories\obj\Debug\net6.0\ASPFirstProject.Repositories.AssemblyInfo.cs
+D:\important\First API Project\ASPFirstProject.Repositories\obj\Debug\net6.0\ASPFirstProject.Repositories.csproj.CoreCompileInputs.cache
+D:\important\First API Project\ASPFirstProject.Repositories\obj\Debug\net6.0\ASPFirstProject.Repositories.dll
+D:\important\First API Project\ASPFirstProject.Repositories\obj\Debug\net6.0\ref\ASPFirstProject.Repositories.dll
+D:\important\First API Project\ASPFirstProject.Repositories\obj\Debug\net6.0\ASPFirstProject.Repositories.pdb
+D:\important\First API Project\ASPFirstProject.Repositories\obj\Debug\net6.0\ASPFirstProject.Repositories.genruntimeconfig.cache
+D:\important\First API Project\ASPFirstProject.Repositories\bin\Debug\net6.0\APIFirstProject.Entities.dll
+D:\important\First API Project\ASPFirstProject.Repositories\bin\Debug\net6.0\APIFirstProject.Entities.pdb
+D:\important\First API Project\ASPFirstProject.Repositories\obj\Debug\net6.0\ASPFirstProject.Repositories.csproj.CopyComplete

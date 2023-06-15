@@ -1,0 +1,14 @@
+D:\important\First API Project\APIFirstProject.Entities\bin\Debug\net6.0\APIFirstProject.Entities.deps.json
+D:\important\First API Project\APIFirstProject.Entities\bin\Debug\net6.0\APIFirstProject.Entities.runtimeconfig.json
+D:\important\First API Project\APIFirstProject.Entities\bin\Debug\net6.0\APIFirstProject.Entities.dll
+D:\important\First API Project\APIFirstProject.Entities\bin\Debug\net6.0\ref\APIFirstProject.Entities.dll
+D:\important\First API Project\APIFirstProject.Entities\bin\Debug\net6.0\APIFirstProject.Entities.pdb
+D:\important\First API Project\APIFirstProject.Entities\obj\Debug\net6.0\APIFirstProject.Entities.csproj.AssemblyReference.cache
+D:\important\First API Project\APIFirstProject.Entities\obj\Debug\net6.0\APIFirstProject.Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\important\First API Project\APIFirstProject.Entities\obj\Debug\net6.0\APIFirstProject.Entities.AssemblyInfoInputs.cache
+D:\important\First API Project\APIFirstProject.Entities\obj\Debug\net6.0\APIFirstProject.Entities.AssemblyInfo.cs
+D:\important\First API Project\APIFirstProject.Entities\obj\Debug\net6.0\APIFirstProject.Entities.csproj.CoreCompileInputs.cache
+D:\important\First API Project\APIFirstProject.Entities\obj\Debug\net6.0\APIFirstProject.Entities.dll
+D:\important\First API Project\APIFirstProject.Entities\obj\Debug\net6.0\ref\APIFirstProject.Entities.dll
+D:\important\First API Project\APIFirstProject.Entities\obj\Debug\net6.0\APIFirstProject.Entities.pdb
+D:\important\First API Project\APIFirstProject.Entities\obj\Debug\net6.0\APIFirstProject.Entities.genruntimeconfig.cache
