@@ -158,10 +158,8 @@ namespace DemoApiProject.Controllers
                 if (token.ToUpper() == "TRUE")
                 {
                     string secretKey = configuration["JwtSettings:SecretKey"];
-                    int accessTokenExpirationMinutes = 5; // 5 min
-                    //int refreshTokenExpirationMinutes = 1440; // 24 hours
-                    int refreshTokenExpirationMinutes = 10; // 10 min
-
+                    int accessTokenExpirationMinutes = 60; // 5 min
+                    int refreshTokenExpirationMinutes = 1440; // 24 hours
 
                     var (accessToken, refreshToken) = _userAuth.GenerateTokens(username, secretKey, accessTokenExpirationMinutes, refreshTokenExpirationMinutes);
 
@@ -172,7 +170,7 @@ namespace DemoApiProject.Controllers
                 }
                 else
                 {
-                    return Unauthorized();
+                    return Unauthorized("UserName or Password Incorrect..");
                 }
             }
             catch (Exception ex)
@@ -193,20 +191,25 @@ namespace DemoApiProject.Controllers
                 // Validate the refresh token (check signature, expiration, etc.)
                 // If the refresh token is valid, generate a new access token
                 string secretKey = configuration["JwtSettings:SecretKey"];
-                int accessTokenExpirationMinutes = 5;
+                int accessTokenExpirationMinutes = 60;
+                int refreshTokenExpirationMinutes = 1440;
 
                 string RefreshTokenValidate = _userAuth.ValidateRefreshTooken(username, refreshToken);
 
                 if (RefreshTokenValidate.ToUpper() == "TRUE")
                 {
-                    string newAccessToken = _userAuth.GenerateToken(username, secretKey, accessTokenExpirationMinutes);
+                    string newAccessToken = _userAuth.GenerateToken(username, secretKey, accessTokenExpirationMinutes, refreshTokenExpirationMinutes);
 
                     // Return the new access token in the response
                     return Ok(new { AccessToken = newAccessToken });
                 }
+                else if(RefreshTokenValidate.ToUpper() == "EXPIRED")
+                {
+                    return Unauthorized("Refresh token has expired, Goto login page ");
+                }
                 else
                 {
-                    return Unauthorized();
+                    return Unauthorized("UserName or RefreshToken Not Match !!! ");
                 }
             }
             catch (Exception ex)

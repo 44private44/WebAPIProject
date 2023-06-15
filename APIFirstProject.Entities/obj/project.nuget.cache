@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YsfjNLUl4bnE7Y6tHFG5+cxitVnQgMxHvD80CMFeygQnn2VVgktAZxpUbinmpHNnIDQeIZpnaVOURK2DmjxcAw==",
+  "dgSpecHash": "3a/xND4jXAm1c1ckilzlVi3aHjj3ud3hMc1F60AwY0TjGd6bZ+yi2ejupLiiv/imvtJlVzByvBOCaLhjmeDfpg==",
   "success": true,
-  "projectFilePath": "D:\\important\\First API Project\\APIFirstProject.Entities\\APIFirstProject.Entities.csproj",
+  "projectFilePath": "D:\\important\\122\\WebAPIProject\\APIFirstProject.Entities\\APIFirstProject.Entities.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\pca172\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\pca172\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

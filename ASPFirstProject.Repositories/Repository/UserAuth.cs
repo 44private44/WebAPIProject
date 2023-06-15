@@ -95,7 +95,7 @@ namespace ASPFirstProject.Repositories.Repository
         }
 
         // Generate the token
-        public string GenerateToken(string username,string secretKey, int expirationMinutes)
+        public string GenerateToken(string username,string secretKey, int expirationMinutes, int refreshTokenExpirationMinutes)
         {
             // Create the security key using your secret key
             var key = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(secretKey));
@@ -122,6 +122,15 @@ namespace ASPFirstProject.Repositories.Repository
 
             // Serialize the token to a string
             var tokenString = new JwtSecurityTokenHandler().WriteToken(token);
+            using (SqlConnection connection = new SqlConnection(connectionString))
+            {
+                var parameters = new
+                {
+                    userName = username,
+                    expireTime = refreshTokenExpirationMinutes
+                };
+                string tokenResult = connection.QueryFirstOrDefault<string>("Update_refresh_expiration_time", parameters, commandType: CommandType.StoredProcedure);
+            }
 
             return tokenString;
         }
@@ -172,7 +181,8 @@ namespace ASPFirstProject.Repositories.Repository
                 var parameters = new
                 {
                     Username = username,
-                    @RequestToken = refreshTokenString
+                    RequestToken = refreshTokenString,
+                    ExpirationTimeInMinutes = refreshTokenExpirationMinutes
                 };
                 string tokenResult = connection.QueryFirstOrDefault<string>("Request_token_crud", parameters, commandType: CommandType.StoredProcedure);
             }
