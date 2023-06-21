@@ -53,6 +53,10 @@
               "target": "Package",
               "version": "[6.0.16, )"
             },
+            "Microsoft.Data.Services.Client": {
+              "target": "Package",
+              "version": "[5.8.5, )"
+            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[7.0.5, )"
@@ -74,6 +78,10 @@
             "Microsoft.IdentityModel.Tokens": {
               "target": "Package",
               "version": "[6.31.0, )"
+            },
+            "Solid.AspNetCore.Extensions.Wcf": {
+              "target": "Package",
+              "version": "[1.1.4, )"
             },
             "System.IdentityModel.Tokens.Jwt": {
               "target": "Package",
@@ -156,6 +164,10 @@
               "target": "Package",
               "version": "[6.0.16, )"
             },
+            "Microsoft.Data.Services.Client": {
+              "target": "Package",
+              "version": "[5.8.5, )"
+            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[7.0.5, )"
@@ -177,6 +189,10 @@
             "Microsoft.IdentityModel.Tokens": {
               "target": "Package",
               "version": "[6.31.0, )"
+            },
+            "Solid.AspNetCore.Extensions.Wcf": {
+              "target": "Package",
+              "version": "[1.1.4, )"
             },
             "System.IdentityModel.Tokens.Jwt": {
               "target": "Package",
