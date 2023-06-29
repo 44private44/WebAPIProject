@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\APIFirstProject",
+    "\\ASPFirstProject.Repositories",
+    "\\ASPFirstProject.Repositories\\Repository"
   ],
-  "SelectedNode": "\\APIFirstProject.sln",
+  "SelectedNode": "\\ASPFirstProject.Repositories\\Repository\\MissionRepository.cs",
   "PreviewInSolutionExplorer": false
 }
