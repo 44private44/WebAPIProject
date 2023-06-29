@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\important\\122\\WebAPIProject\\APIFirstProject\\APIFirstProject.csproj": {}
+    "D:\\important\\122\\Projects\\WebAPIProject\\APIFirstProject\\APIFirstProject.csproj": {}
   },
   "projects": {
-    "D:\\important\\122\\WebAPIProject\\APIFirstProject.Entities\\APIFirstProject.Entities.csproj": {
+    "D:\\important\\122\\Projects\\WebAPIProject\\APIFirstProject.Entities\\APIFirstProject.Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\important\\122\\WebAPIProject\\APIFirstProject.Entities\\APIFirstProject.Entities.csproj",
+        "projectUniqueName": "D:\\important\\122\\Projects\\WebAPIProject\\APIFirstProject.Entities\\APIFirstProject.Entities.csproj",
         "projectName": "APIFirstProject.Entities",
-        "projectPath": "D:\\important\\122\\WebAPIProject\\APIFirstProject.Entities\\APIFirstProject.Entities.csproj",
+        "projectPath": "D:\\important\\122\\Projects\\WebAPIProject\\APIFirstProject.Entities\\APIFirstProject.Entities.csproj",
         "packagesPath": "C:\\Users\\pca172\\.nuget\\packages\\",
-        "outputPath": "D:\\important\\122\\WebAPIProject\\APIFirstProject.Entities\\obj\\",
+        "outputPath": "D:\\important\\122\\Projects\\WebAPIProject\\APIFirstProject.Entities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -107,14 +107,14 @@
         }
       }
     },
-    "D:\\important\\122\\WebAPIProject\\APIFirstProject\\APIFirstProject.csproj": {
+    "D:\\important\\122\\Projects\\WebAPIProject\\APIFirstProject\\APIFirstProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\important\\122\\WebAPIProject\\APIFirstProject\\APIFirstProject.csproj",
+        "projectUniqueName": "D:\\important\\122\\Projects\\WebAPIProject\\APIFirstProject\\APIFirstProject.csproj",
         "projectName": "APIFirstProject",
-        "projectPath": "D:\\important\\122\\WebAPIProject\\APIFirstProject\\APIFirstProject.csproj",
+        "projectPath": "D:\\important\\122\\Projects\\WebAPIProject\\APIFirstProject\\APIFirstProject.csproj",
         "packagesPath": "C:\\Users\\pca172\\.nuget\\packages\\",
-        "outputPath": "D:\\important\\122\\WebAPIProject\\APIFirstProject\\obj\\",
+        "outputPath": "D:\\important\\122\\Projects\\WebAPIProject\\APIFirstProject\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -136,11 +136,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\important\\122\\WebAPIProject\\APIFirstProject.Entities\\APIFirstProject.Entities.csproj": {
-                "projectPath": "D:\\important\\122\\WebAPIProject\\APIFirstProject.Entities\\APIFirstProject.Entities.csproj"
+              "D:\\important\\122\\Projects\\WebAPIProject\\APIFirstProject.Entities\\APIFirstProject.Entities.csproj": {
+                "projectPath": "D:\\important\\122\\Projects\\WebAPIProject\\APIFirstProject.Entities\\APIFirstProject.Entities.csproj"
               },
-              "D:\\important\\122\\WebAPIProject\\ASPFirstProject.Repositories\\ASPFirstProject.Repositories.csproj": {
-                "projectPath": "D:\\important\\122\\WebAPIProject\\ASPFirstProject.Repositories\\ASPFirstProject.Repositories.csproj"
+              "D:\\important\\122\\Projects\\WebAPIProject\\ASPFirstProject.Repositories\\ASPFirstProject.Repositories.csproj": {
+                "projectPath": "D:\\important\\122\\Projects\\WebAPIProject\\ASPFirstProject.Repositories\\ASPFirstProject.Repositories.csproj"
               }
             }
           }
@@ -228,14 +228,14 @@
         }
       }
     },
-    "D:\\important\\122\\WebAPIProject\\ASPFirstProject.Repositories\\ASPFirstProject.Repositories.csproj": {
+    "D:\\important\\122\\Projects\\WebAPIProject\\ASPFirstProject.Repositories\\ASPFirstProject.Repositories.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\important\\122\\WebAPIProject\\ASPFirstProject.Repositories\\ASPFirstProject.Repositories.csproj",
+        "projectUniqueName": "D:\\important\\122\\Projects\\WebAPIProject\\ASPFirstProject.Repositories\\ASPFirstProject.Repositories.csproj",
         "projectName": "ASPFirstProject.Repositories",
-        "projectPath": "D:\\important\\122\\WebAPIProject\\ASPFirstProject.Repositories\\ASPFirstProject.Repositories.csproj",
+        "projectPath": "D:\\important\\122\\Projects\\WebAPIProject\\ASPFirstProject.Repositories\\ASPFirstProject.Repositories.csproj",
         "packagesPath": "C:\\Users\\pca172\\.nuget\\packages\\",
-        "outputPath": "D:\\important\\122\\WebAPIProject\\ASPFirstProject.Repositories\\obj\\",
+        "outputPath": "D:\\important\\122\\Projects\\WebAPIProject\\ASPFirstProject.Repositories\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -257,8 +257,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\important\\122\\WebAPIProject\\APIFirstProject.Entities\\APIFirstProject.Entities.csproj": {
-                "projectPath": "D:\\important\\122\\WebAPIProject\\APIFirstProject.Entities\\APIFirstProject.Entities.csproj"
+              "D:\\important\\122\\Projects\\WebAPIProject\\APIFirstProject.Entities\\APIFirstProject.Entities.csproj": {
+                "projectPath": "D:\\important\\122\\Projects\\WebAPIProject\\APIFirstProject.Entities\\APIFirstProject.Entities.csproj"
               }
             }
           }

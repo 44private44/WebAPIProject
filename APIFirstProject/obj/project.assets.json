@@ -7835,11 +7835,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\important\\122\\WebAPIProject\\APIFirstProject\\APIFirstProject.csproj",
+      "projectUniqueName": "D:\\important\\122\\Projects\\WebAPIProject\\APIFirstProject\\APIFirstProject.csproj",
       "projectName": "APIFirstProject",
-      "projectPath": "D:\\important\\122\\WebAPIProject\\APIFirstProject\\APIFirstProject.csproj",
+      "projectPath": "D:\\important\\122\\Projects\\WebAPIProject\\APIFirstProject\\APIFirstProject.csproj",
       "packagesPath": "C:\\Users\\pca172\\.nuget\\packages\\",
-      "outputPath": "D:\\important\\122\\WebAPIProject\\APIFirstProject\\obj\\",
+      "outputPath": "D:\\important\\122\\Projects\\WebAPIProject\\APIFirstProject\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -7861,11 +7861,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\important\\122\\WebAPIProject\\APIFirstProject.Entities\\APIFirstProject.Entities.csproj": {
-              "projectPath": "D:\\important\\122\\WebAPIProject\\APIFirstProject.Entities\\APIFirstProject.Entities.csproj"
+            "D:\\important\\122\\Projects\\WebAPIProject\\APIFirstProject.Entities\\APIFirstProject.Entities.csproj": {
+              "projectPath": "D:\\important\\122\\Projects\\WebAPIProject\\APIFirstProject.Entities\\APIFirstProject.Entities.csproj"
             },
-            "D:\\important\\122\\WebAPIProject\\ASPFirstProject.Repositories\\ASPFirstProject.Repositories.csproj": {
-              "projectPath": "D:\\important\\122\\WebAPIProject\\ASPFirstProject.Repositories\\ASPFirstProject.Repositories.csproj"
+            "D:\\important\\122\\Projects\\WebAPIProject\\ASPFirstProject.Repositories\\ASPFirstProject.Repositories.csproj": {
+              "projectPath": "D:\\important\\122\\Projects\\WebAPIProject\\ASPFirstProject.Repositories\\ASPFirstProject.Repositories.csproj"
             }
           }
         }

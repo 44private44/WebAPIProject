@@ -377,11 +377,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\important\\122\\WebAPIProject\\WCFServices\\WCFServices.csproj",
+      "projectUniqueName": "D:\\important\\122\\Projects\\WebAPIProject\\WCFServices\\WCFServices.csproj",
       "projectName": "WCFServices",
-      "projectPath": "D:\\important\\122\\WebAPIProject\\WCFServices\\WCFServices.csproj",
+      "projectPath": "D:\\important\\122\\Projects\\WebAPIProject\\WCFServices\\WCFServices.csproj",
       "packagesPath": "C:\\Users\\pca172\\.nuget\\packages\\",
-      "outputPath": "D:\\important\\122\\WebAPIProject\\WCFServices\\obj\\",
+      "outputPath": "D:\\important\\122\\Projects\\WebAPIProject\\WCFServices\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
